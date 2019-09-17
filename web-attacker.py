@@ -81,9 +81,9 @@ def usage():
          `Y$$b.
             `"Y$b._
                 `""""
-|Version : V.1(Beta) |
-|Team    : THE NEXT LEVEL |
-|Create  : Mr.Bell |
+|Version   : V.1(Beta) |
+|Team      : THE NEXT LEVEL |
+|Create    : Mr.Bell |
 |Thanks To : Mr.Ars17 |
 ############################## \n 
 	usage : python2 web-attacker.py (http.target.xxx)
